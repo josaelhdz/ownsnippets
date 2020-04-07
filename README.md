@@ -1,2 +1,2 @@
-# ownsnippets
+# Ownsnippets
 My First Repository
